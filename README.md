@@ -1,1 +1,5 @@
-# sustav_rezervacija_za_kino
+# RP2 - projektni zadatak
+
+Collaborators:
+* Ivan Hadaš
+* Luka Žigolić
